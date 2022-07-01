@@ -23,8 +23,17 @@
     <li>1.6 Сlass structure - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
     </ul>
     <p>Block 2. InMemory data storage - Arrays</p>
-    <li>2.1</li>
-    <li>2.2</li>
+    <ul>
+    <li>2.1 One-Dimensional Arrays - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+    <li>2.2 Multi-Dimensional Arrays - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+    </ul>
+      <p>Block 3. Fundamentals of Object-Oriented Programming (OOP)</p>
+      <ul>
+      <li>3.1 Access modifiers, inheritance (quiz - without uploading projects on GitHub)</li>
+      <li>3.2 Polymorphism - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+      <li>3.3 Abstractions and interfaces - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+      <li>3.4 Exceptions, Stacktrace - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+      </ul>
   </div>
 <html>
 
