@@ -45,8 +45,8 @@
       <p><h4>Course project "Converter to text graphics" - <a href="#"></a></h4></p>
   <p><h3>Final diplom tasks of the profession "Java-developer"</h3></p>
   <ul>
-<li>1. Task Manager - <a href="https://github.com/Arhat161/pcs-javacore" target="_blank"></a></li>
-  <li>2. Search engine for PDF documents - https://github.com/Arhat161/pcs-jd-diplom-complete</li>
+<li>1. Task Manager - <a href="https://github.com/Arhat161/pcs-javacore" target="_blank">solution</a></li>
+  <li>2. Search engine for PDF documents - <a href="https://github.com/Arhat161/pcs-jd-diplom-complete" target="_blank">solution</a></li>
 </ul>
   </div>
 <html>
