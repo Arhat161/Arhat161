@@ -16,13 +16,15 @@
     <p>Block 1. Java Basics</p>
     <ul>
     <li>1.1 Introduction to Java Programming - <a href="https://github.com/Arhat161/introduction_1_1_1" target="_blank">first</a> & <a href="https://github.com/Arhat161/introduction_1_1_2" target="_blank">second*</a></li>
-    <li>1.2</li>
-    <li>1.3</li>
-    <li>1.4</li>
-    <li>1.5</li>
-    <li>1.6</li>
+    <li>1.2 Program Structure - <a href="https://github.com/Arhat161/program-structure_1.2.1" target="_blank">first</a> & <a href="https://github.com/Arhat161/program-structure_1.2.2" target="_blank">second</a></li>
+    <li>1.3 - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+    <li>1.4 - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li></li>
+    <li>1.5 - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li></li>
+    <li>1.6 - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li></li>
     </ul>
-    
+    <p>Block 2. InMemory data storage - Arrays</p>
+    <li>2.1</li>
+    <li>2.2</li>
   </div>
 <html>
 
