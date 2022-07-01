@@ -16,11 +16,11 @@
     <p>Block 1. Java Basics</p>
     <ul>
     <li>1.1 Introduction to Java Programming - <a href="https://github.com/Arhat161/introduction_1_1_1" target="_blank">first</a> & <a href="https://github.com/Arhat161/introduction_1_1_2" target="_blank">second*</a></li>
-    <li>1.2 Program Structure - <a href="https://github.com/Arhat161/program-structure_1.2.1" target="_blank">first</a> & <a href="https://github.com/Arhat161/program-structure_1.2.2" target="_blank">second</a></li>
-    <li>1.3 - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
-    <li>1.4 - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li></li>
-    <li>1.5 - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li></li>
-    <li>1.6 - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li></li>
+    <li>1.2 Program structure - <a href="https://github.com/Arhat161/program-structure_1.2.1" target="_blank">first</a> & <a href="https://github.com/Arhat161/program-structure_1.2.2" target="_blank">second</a></li>
+    <li>1.3 Conditional statements and loops - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+    <li>1.4 Data Types in Java: Primitives - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+    <li>1.5 Data Types in Java: Objects (quiz - without uploading projects on GitHub)</li>
+    <li>1.6 Сlass structure - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
     </ul>
     <p>Block 2. InMemory data storage - Arrays</p>
     <li>2.1</li>
