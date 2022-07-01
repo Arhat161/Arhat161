@@ -10,7 +10,19 @@
       <li>MySQL</li>
       <li>Linux</li>
     </ul>
-    <p>My email <a href="mailto:sergeiakopovjava@gmail.com">sergeiakopovjava@gmail.com</a></p>
+    </div>
+    <div>
+    <h3>Java Homeworks</h3>
+    <p>Block 1. Java Basics</p>
+    <ul>
+    <li>1.1 Introduction to Java Programming - <a href="https://github.com/Arhat161/introduction_1_1_1" target="_blank">first</a> & <a href="https://github.com/Arhat161/introduction_1_1_2" target="_blank">second*</a></li>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+    </ul>
+    
   </div>
 <html>
 
