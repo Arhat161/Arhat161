@@ -42,6 +42,12 @@
         <li>HashMap and HashSet - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
         <li>Treemap and TreeSet - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
       </ul>
+      <p><h4>Course project "Converter to text graphics" - <a href="#"></a></h4></p>
+  <p><h3>Final diplom tasks of the profession "Java-developer"</h3></p>
+  <ul>
+<li>1. Task Manager - <a href="https://github.com/Arhat161/pcs-javacore" target="_blank"></a></li>
+  <li>2. Search engine for PDF documents - https://github.com/Arhat161/pcs-jd-diplom-complete</li>
+</ul>
   </div>
 <html>
 
