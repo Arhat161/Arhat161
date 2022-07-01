@@ -34,6 +34,14 @@
       <li>3.3 Abstractions and interfaces - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
       <li>3.4 Exceptions, Stacktrace - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
       </ul>
+    <p>Block 4. InMemory data storage - Collections</p>
+      <ul>
+        <li>Generics in Collections and Methods (quiz - without uploading projects on GitHub)</li>
+        <li>List - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+        <li>Queue - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+        <li>HashMap and HashSet - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+        <li>Treemap and TreeSet - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+      </ul>
   </div>
 <html>
 
