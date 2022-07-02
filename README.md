@@ -5,7 +5,7 @@
   <div>
     <p>My skills is:</p>
     <ul>
-    <li>Java</li>
+    <li>Java (Basics, Core, StreamAPI, Maven, Gradle)</li>
       <li>Spring</li>
       <li>MySQL</li>
       <li>Linux</li>
@@ -13,7 +13,8 @@
     </div>
     <div>
     <h3>Java Homeworks</h3>
-    <p>Block 1. Java Basics</p>
+    <p>Java Basics</p>
+    <p>Block 1. Introduction to Java Programming</p>
     <ul>
     <li>1.1 Introduction to Java Programming - <a href="https://github.com/Arhat161/introduction_1_1_1" target="_blank">first</a> & <a href="https://github.com/Arhat161/introduction_1_1_2" target="_blank">second*</a></li>
     <li>1.2 Program structure - <a href="https://github.com/Arhat161/program-structure_1.2.1" target="_blank">first</a> & <a href="https://github.com/Arhat161/program-structure_1.2.2" target="_blank">second</a></li>
@@ -42,7 +43,18 @@
         <li>HashMap and HashSet - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
         <li>Treemap and TreeSet - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
       </ul>
-      <p><h4>Course project "Converter to text graphics" - <a href="#"></a></h4></p>
+      <p>Course project "Converter to text graphics" - source codes are available upon request</p>
+    <p>Java Core</p>
+    <p>Block 1. Stream API, working with files and building projects</p>
+    <ul>
+        <li>1.1 Lambda expressions and functional interfaces - <a href="https://github.com/Arhat161/lambda_task1" target="_blank">first</a> & <a href="https://github.com/Arhat161/lambda_task2" target="_blank">second</a></li>
+        <li>1.2 I/O streams. Working with files. Serialization - <a href="https://github.com/Arhat161/files_task_1" target="_blank">first</a> 
+& <a href="https://github.com/Arhat161/files_task_2" target="_blank">second</a> & <a href="https://github.com/Arhat161/files_task_3" target="_blank">third*</a></li>
+        <li>1.3 - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+        <li>1.4 - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+        <li>1.5 - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+    </ul>
+    
   <p><h3>Final diplom tasks of the profession "Java-developer"</h3></p>
   <ul>
 <li>1. Task Manager - <a href="https://github.com/Arhat161/pcs-javacore" target="_blank">solution</a></li>
