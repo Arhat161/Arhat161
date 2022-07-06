@@ -31,8 +31,8 @@
     </ul>
     <p>Block 2. InMemory data storage - Arrays</p>
     <ul>
-    <li>2.1 One-Dimensional Arrays - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
-    <li>2.2 Multi-Dimensional Arrays - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+    <li>2.1 One-Dimensional Arrays - <a href="https://github.com/Arhat161/one-dimensional-array21V2" target="_blank">first</a></li>
+    <li>2.2 Multi-Dimensional Arrays - <a href="https://github.com/Arhat161/multidimensional-array_2.2.1" target="_blank">first</a> & <a href="https://github.com/Arhat161/multidimensional-array_2.2.2" target="_blank">second</a></li>
     </ul>
       <p>Block 3. Fundamentals of Object-Oriented Programming (OOP)</p>
       <ul>
