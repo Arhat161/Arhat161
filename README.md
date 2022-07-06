@@ -37,7 +37,7 @@
       <p>Block 3. Fundamentals of Object-Oriented Programming (OOP)</p>
       <ul>
       <li>3.1 Access modifiers, inheritance (quiz - without uploading projects on GitHub)</li>
-      <li>3.2 Polymorphism - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+      <li>3.2 Polymorphism - <a href="https://github.com/Arhat161/polymorphism_3.2.1" target="_blank">first</a> & <a href="https://github.com/Arhat161/polymorphism_3.2.2" target="_blank">second</a> & <a href="https://github.com/Arhat161/polymorphism_3.3.3" target="_blank">third</a></li>
       <li>3.3 Abstractions and interfaces - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
       <li>3.4 Exceptions, Stacktrace - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
       </ul>
