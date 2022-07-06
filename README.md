@@ -27,7 +27,7 @@
     <li>1.3 Conditional statements and loops - <a href="https://github.com/Arhat161/conditional-statements-cycles_1.3.1" target="_blank">first</a> & <a href="https://github.com/Arhat161/conditional-statements-cycles_1.3.2" target="_blank">second</a></li>
     <li>1.4 Data Types in Java: Primitives - <a href="https://github.com/Arhat161/primitive-types_1.4.1" target="_blank">first</a> & <a href="https://github.com/Arhat161/primitive-types_1.4.2" target="_blank">second</a></li>
     <li>1.5 Data Types in Java: Objects (quiz - without uploading projects on GitHub)</li>
-    <li>1.6 Сlass structure - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+    <li>1.6 Сlass structure - <a href="https://github.com/Arhat161/class-structure_1.6_ALL-IN-ONE" target="_blank">first & second & third</a></li>
     </ul>
     <p>Block 2. InMemory data storage - Arrays</p>
     <ul>
