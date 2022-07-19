@@ -46,8 +46,8 @@
         <li>Generics in Collections and Methods (quiz - without uploading projects on GitHub)</li>
         <li>List - <a href="https://github.com/Arhat161/list_4.1.1" target="_blank">first</a></li>
         <li>Queue - <a href="https://github.com/Arhat161/queue_4.2.1" target="_blank">first</a> & <a href="https://github.com/Arhat161/queue_4.2.2" target="_blank">second</a></li>
-        <li>HashMap and HashSet - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
-        <li>Treemap and TreeSet - <a href="#" target="_blank">first</a> & <a href="#" target="_blank">second</a></li>
+        <li>HashMap and HashSet - <a href="https://github.com/Arhat161/hash-collections_4.3.1" target="_blank">first</a> & <a href="https://github.com/Arhat161/hash-collections_4.3.2" target="_blank">second</a></li>
+        <li>Treemap and TreeSet - <a href="https://github.com/Arhat161/tree-collections_4.5.1" target="_blank">first</a> & <a href="https://github.com/Arhat161/tree-collections_4.5.2" target="_blank">second</a></li>
       </ul>
       <p>Course project "Converter to text graphics" - source codes are available upon request</p>
     <p><b>Java Core</b></p>
