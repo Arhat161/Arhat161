@@ -102,12 +102,12 @@
 <li>5. Pattern "producer - consumer" with <a href="https://github.com/Arhat161/Pattern_producer-consumer_1" title="example of implementation pattern producer-consumer with BlockingQueue in Java Multithreading" target="_blank">BlockingQueue</a></li>
 <li>6. Methods <a href="https://github.com/Arhat161/Threads_wait_notify" title="Threads use wait() and notify()" target="_blank">wait() and notify()</a></li>
 <li>7. Pattern "producer - consumer" with <a href="https://github.com/Arhat161/Pattern_producer_consumer_2" title="use wait() and notify() for implementation pattern producer-consumer in Java Multithreading" target="_blank">wait() and notify() for threads</a></li>
-<li>8. Simple example of <a href="https://github.com/Arhat161/Threads_CountDownLatch" title="simple example of using class CountDownLatch in Java Multithreading" target="_blank">CountDownLatch</a></li>
-<li>9. </li>
-<li>10. </li>
-<li>11. </li>
-<li>12. </li>
-<li>13. </li>
+<li>8. Simple example of Class <a href="https://github.com/Arhat161/Threads_CountDownLatch" title="simple example of using class CountDownLatch in Java Multithreading" target="_blank">CountDownLatch</a></li>
+<li>9. Simple example of Class <a href="https://github.com/Arhat161/Threads_ReentrantLock" title="example of use class ReentrantLock in Java Multithreading" target="_blank">ReentrantLock</a></li>
+<li>10. Threads <a href="https://github.com/Arhat161/Threads_Semaphore" title="Threads Semaphore example in Java Multithreading" target="_blank">Semaphore example</a></li>
+<li>11. An example of how to avoid <a href="https://github.com/Arhat161/Threads_Deadlock" title="Threads Deadlock in Java Multithreading" target="_blank">Deadlock</a></li>
+<li>12. How to right use the <a href="https://github.com/Arhat161/Threads_break" title="using interrupt() method for break thread in Java Multithreading" target="_blank">'interrupt()' method for break thread</a></li>
+<li>13. How we can get thread job result and use it with classes <a href="https://github.com/Arhat161/Thread_Callable_Future" title="How we can get thread job result and use it in Java Multithreading" target="_blank">Callable & Future</a></li>
 </ul>
   </div>
 
