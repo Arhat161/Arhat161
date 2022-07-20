@@ -92,6 +92,23 @@
 <li>1. Task Manager - <a href="https://github.com/Arhat161/pcs-javacore" target="_blank">solution</a></li>
   <li>2. Search engine for PDF documents - <a href="https://github.com/Arhat161/pcs-jd-diplom-complete" target="_blank">solution</a></li>
 </ul>
+
+<p><h3>Java Multithreading</h3>
+<ul>
+<li>1. Simple <a href="https://github.com/Arhat161/Threads_Simple_Demo" title="simple demo of multithreading in Java" target="_blank">Thread Demo</a></li>
+<li>2. Keyword <a href="https://github.com/Arhat161/Threads_volotile" title="use keyword volatile in Java Threads" target="_blank">volatile</a></li>
+<li>3. Introduction to <a href="https://github.com/Arhat161/Threads_synchronized_1" title="use keyword synchronized in Java Threads" target="_blank">synchronized</a> and <a href="https://github.com/Arhat161/Threads_synchronized_2" title="use keyword synchronized and lock object in Java">synchronized + lock object</a></li>
+<li>4. Example of <a href="https://github.com/Arhat161/ThreadPool_example" title="example of Thread Pool and Executor in Java Multithreading" target="_blank">Thread Pool and Executor</a></li>
+<li>5. Pattern "producer - consumer" with <a href="https://github.com/Arhat161/Pattern_producer-consumer_1" title="example of implementation pattern producer-consumer with BlockingQueue in Java Multithreading" target="_blank">BlockingQueue</a></li>
+<li>6. Methods <a href="https://github.com/Arhat161/Threads_wait_notify" title="Threads use wait() and notify()" target="_blank">wait() and notify()</a></li>
+<li>7. Pattern "producer - consumer" with <a href="https://github.com/Arhat161/Pattern_producer_consumer_2" title="use wait() and notify() for implementation pattern producer-consumer in Java Multithreading" target="_blank">wait() and notify() for threads</a></li>
+<li>8. Simple example of <a href="https://github.com/Arhat161/Threads_CountDownLatch" title="simple example of using class CountDownLatch in Java Multithreading" target="_blank">CountDownLatch</a></li>
+<li>9. </li>
+<li>10. </li>
+<li>11. </li>
+<li>12. </li>
+<li>13. </li>
+</ul>
   </div>
 
 <html>
