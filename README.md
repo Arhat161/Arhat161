@@ -1,17 +1,24 @@
-<html>
+<html lang="en">
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">Sergei</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java developer from Russia</h3>
   <div>
     <p>My skills is:</p>
     <ul>
-        <li>Java (Basics, Core, StreamAPI, Unit Tests, Networking, Threads, Maven, Gradle)</li>
-        <li>Design patterns</li>
-        <li>Spring</li>
-        <li>MySQL, PostgresSQL</li>
+        <li>Java (Basics, Core, Collections, StreamAPI, Unit Tests, Networking, Multithreading, Concurrent, Reflection API, Maven, Gradle)</li>
+        <li>Spring Framework (Core, Boot, Web, Security, Data, JDBC Template)</li>
+        <li>Design patterns (Builder, Singletone, Factory Method, Proxy, Decorator, Adapter, Command, Iterator, Observer, 
+Chain of Responsibility)</li>
+        <li>SQL (MySQL, PostgresSQL)</li>
+        <li>ORM (Hibernate)</li>
+        <li>Lombok</li>
         <li>Linux</li>
-        <li>HTML, CSS, Java Script, PHP</li>
+        <li>HTML, CSS, Thymeleaf</li>
+        <li>Java Script, PHP</li>
+        <li>REST, Jackson</li>
         <li>Docker</li>
+        <li>Git (GitHub)</li>
+        <li>IntelliJ IDEA</li>
     </ul>
     </div>
     <div>
@@ -111,5 +118,5 @@
 </ul>
   </div>
 
-<html>
+</html>
 
