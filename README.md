@@ -116,6 +116,11 @@ Chain of Responsibility)</li>
 <li>12. How to right use the <a href="https://github.com/Arhat161/Threads_break" title="using interrupt() method for break thread in Java Multithreading" target="_blank">'interrupt()' method for break thread</a></li>
 <li>13. How we can get thread job result and use it with classes <a href="https://github.com/Arhat161/Thread_Callable_Future" title="How we can get thread job result and use it in Java Multithreading" target="_blank">Callable & Future</a></li>
 </ul>
+
+<p><h3>Spring</h3>
+<ul>
+<li>1. Simple String demo project <a href="https://github.com/Arhat161/spring-project1" title="simple String demo with JDBC, PostgreSQL, Apache Tomcat, Maven, Thymeleaf, Bootstrap, HTML, CSS">Library: Readers and Books</a> with JDBC, PostgreSQL, Apache Tomcat, Maven, Thymeleaf, Bootstrap, HTML, CSS</li>
+</ul>
   </div>
 
 </html>
