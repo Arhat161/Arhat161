@@ -1,6 +1,6 @@
 <html lang="en">
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">Sergei</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img alt="Hello!" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java developer from Russia</h3>
   <div>
     <p>My skills is:</p>
@@ -122,6 +122,11 @@ Chain of Responsibility)</li>
 <li>1. Simple String demo project <a href="https://github.com/Arhat161/spring-project1" title="simple String demo with JDBC, PostgreSQL, Apache Tomcat, Maven, Thymeleaf, Bootstrap, HTML, CSS">Library: Readers and Books</a> with JDBC, PostgreSQL, Apache Tomcat, Maven, Thymeleaf, Bootstrap, HTML, CSS</li>
 </ul>
   </div>
+
+<p><h3>Hibernate</h3>
+<ul>
+<li>1. Simple console <a href="https://github.com/Arhat161/hibersnate-simple-demo-1" title="demo of configuration and using Hibernate">Hibernate demo</a> with Maven</li>
+</ul>
 
 </html>
 
