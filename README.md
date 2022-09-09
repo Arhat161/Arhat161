@@ -125,7 +125,8 @@ Chain of Responsibility)</li>
 
 <p><h3>Hibernate</h3>
 <ul>
-<li>1. Simple console <a href="https://github.com/Arhat161/hibersnate-simple-demo-1" title="demo of configuration and using Hibernate">Hibernate demo</a> with Maven</li>
+<li>1. First <a href="https://github.com/Arhat161/hibersnate-simple-demo-1" title="demo of configuration and using Hibernate">Hibernate demo</a> with Maven - configuration and SELECT from table of database</li>
+<li>2. Second <a href="https://github.com/Arhat161/HibernateAppSecond" title="demo of using Hibernate - INSERT and SELECT to database">Hibernate example</a> - INSERT (save) and SELECT (createQuery)</li>
 </ul>
 
 </html>
